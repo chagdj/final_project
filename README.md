@@ -66,7 +66,7 @@ The file `df_merged.csv` contains structured GitHub profile data enriched with:
 
 ## 📸 Screenshot
 
-_Add a screenshot here to showcase the interface (optional)._
+![GitHunt Screenshot](screenshot.png)
 
 ## 🧪 Tech Stack
 
