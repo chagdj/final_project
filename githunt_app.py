@@ -164,7 +164,7 @@ else:
         - **Website**: {make_link(user_row['blog_or_website'], user_row['blog_or_website'])}  
         - **Email**: {email_display}  
         - **Matching Score**: {match_score}  
-          → This score is based on repository count, stars, recent activity, and tech match to help recruiters find top talent.
+          → This score is based on repository count, stars and recent activity help recruiters find top talent.
         """, unsafe_allow_html=True)
 
         st.write("**Bio:**", user_row.get("bio", "Not available"))
