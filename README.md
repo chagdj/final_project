@@ -39,7 +39,7 @@ Make sure Python 3.8+ is installed.
 1. Install the dependencies:  
    `pip install -r requirements.txt`  
 
-2. Run the app:  
+2. Run the app in your terminal:  
    `streamlit run githunt_app.py`  
 
 Your browser will open at `http://localhost:8501`.
@@ -61,8 +61,8 @@ The file `df_merged.csv` contains structured GitHub profile data enriched with:
 • **Email Only** – Restrict view to profiles with a public email address  
 • **Matching Score** – Prioritize profiles with better GitHub presence  
 • **Activity Chart** – View recent monthly GitHub repo contributions  
-• **Links** – Clickable GitHub, LinkedIn, Twitter, Website, and Email  
-• **Profile Reliability** – Highlights if the position was inferred confidently  
+• **Links** – Clickable GitHub, LinkedIn, Twitter, Website and Email  
+• **Profile Reliability** – Highlights if the position was confidently  
 
 ## 📸 Screenshot
 
